@@ -8,7 +8,7 @@ from datetime import date, datetime, timedelta
 class winsky:
 
         username = 'root'
-        password = '721142'
+        password = 'null'
         database = 'winsky_db'
         host = 'localhost'
         connection = ''
